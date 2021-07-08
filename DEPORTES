@@ -1,0 +1,37 @@
+#EXTM3U
+#EXTINF:-1,AYM SPORTS
+http://mains.services:2086/live/mikekoot/1757909/92626.ts
+#EXTINF:-1,DIRECTTV SPORT
+http://mains.services:2086/live/mikekoot/1757909/92608.ts
+#EXTINF:-1,DIRECTTV SPORT 1
+http://mains.services:2086/live/mikekoot/1757909/92607.ts
+#EXTINF:-1,DIRECTTV SPORT 2
+http://mains.services:2086/live/mikekoot/1757909/92606.ts
+#EXTINF:-1,ESPN
+http://mains.services:2086/live/mikekoot/1757909/98780.ts
+#EXTINF:-1,ESPN 2
+http://mains.services:2086/live/mikekoot/1757909/98781.ts
+#EXTINF:-1,ESPN 3
+http://mains.services:2086/live/mikekoot/1757909/98782.ts
+#EXTINF:-1,ESPN SPORT
+http://mains.services:2086/live/mikekoot/1757909/66568.ts
+#EXTINF:-1,FOX DEPORTES
+http://mains.services:2086/live/mikekoot/1757909/92587.ts
+#EXTINF:-1,FOX SPORT 1
+http://mains.services:2086/live/mikekoot/1757909/92584.ts
+#EXTINF:-1,FOX SPORT 2
+http://mains.services:2086/live/mikekoot/1757909/92583.ts
+#EXTINF:-1,FOX SPORT 3
+http://mains.services:2086/live/mikekoot/1757909/92582.ts
+#EXTINF:-1,FOX SPORT PREMIUM
+http://mains.services:2086/live/mikekoot/1757909/92581.ts
+#EXTINF:-1,GOL TV
+http://mains.services:2086/live/mikekoot/1757909/66576.ts
+#EXTINF:-1,TUDN
+http://mains.services:2086/live/mikekoot/1757909/66593.ts
+#EXTINF:-1,TYC SPORT
+http://mains.services:2086/live/mikekoot/1757909/66601.ts
+#EXTINF:-1,WIN SPORT
+http://mains.services:2086/live/mikekoot/1757909/98797.ts
+#EXTINF:-1,STAR ACTION 
+http://mains.services:2086/live/mikekoot/1757909/92591.ts
